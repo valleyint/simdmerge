@@ -66,6 +66,3 @@ The vectorized implementation typically shows significant speedup over the stand
 - Memory access patterns
 - Data distribution
 
-## License
-
-MIT License 
